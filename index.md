@@ -24,15 +24,14 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Degrees
 
-`2016–2020*`
-**Doctor of Philosophy (Geography)**, *University of Helsinki*, Finland.
- * Expeted to graduate in autumn 2020. 
+`2020 (expected)`
+**Doctor of Philosophy** (Geography), *University of Helsinki*, Finland.
 
-`2013–2015`
-**Master of Science (Geography)**, *University of Helsinki*, Finland.
+`2015`
+**Master of Science** (Geography), *University of Helsinki*, Finland.
 
-`2009–2013`
-**Bachelor of Science (Geography)**, *University of Helsinki*, Finland.
+`2013`
+**Bachelor of Science** (Geography), *University of Helsinki*, Finland.
 
 
 
