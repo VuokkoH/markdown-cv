@@ -2,7 +2,7 @@
 
 Vuokko's CV is online at: https://vuokkoh.github.io/markdown-cv/.
 
-# Source
+# Original template and instructions
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
