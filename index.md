@@ -98,6 +98,6 @@ Experienced user of:
 - \- PostgreSQL/PostGIS for managing and analysing spatial databases
 - \- Standard desktop GIS software (QGIS, ArcMap, MapInfo)
 
-Last updated: August 2020
+*Last updated: August 2020*
 
 
