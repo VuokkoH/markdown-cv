@@ -33,10 +33,7 @@ FI-00014 University of Helsinki, Finland<br/>
 `2013`
 **Bachelor of Science** (Geography), *University of Helsinki*, Finland.
 
-
-
-
-## Previous work experience
+## Experience
 
 `2013–2019` 	
 **GIS teacher** (several positions), *Department of Geosciences and Geography, University of Helsinki*, Finland.
