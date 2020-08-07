@@ -19,22 +19,22 @@ FI-00014 University of Helsinki, Finland<br/>
 
 ## Degrees
 
-`09/2013 – 06/2015`
+`2013–2015`
 **Master of Science (Geography)**, *University of Helsinki*, Finland.
 
-`08/2009 – 06/2013`
+`2009–2013`
 **Bachelor of Science (Geography)**, *University of Helsinki*, Finland.
 
 ## Current position
-`03/2016 – `
+`2016–`
 **Doctoral candidate**, Digital Geography Lab, University of Helsinki, Finland.
 
 ## Other education and expertise
 
-`08/2012 – 06/2013`	
+`2012–2013`	
 MSc-level studies in sustainability science, *Stockholm Resilience Center*, Stockholm University, Sweden.
 
-`06/2008 – 05/2009`	
+`2008–2009`	
 BSc-level European studies, *Malmö University*, Sweden.
 
 ## Language skills
@@ -43,21 +43,18 @@ Finnish (native); English (proficient); Swedish (advanced); French (advanced)
 
 ## Previous work experience
 
-`10/2013–12/2019` 	
+`2013–2019` 	
 **GIS teacher** (several positions), Department of Geosciences and Geography, *University of Helsinki*, Finland.
 
-`05/2015–02/2016`	**Coordinator**, Department of Geosciences and Geography, *University of Helsinki*, Finland.
+`2015–2016`	**Coordinator**, Department of Geosciences and Geography, *University of Helsinki*, Finland.
 
-`11/2014 – 12/2014` 	
+`2014` 	
 **Research assistant**, Environmental Policy Centre, *Finnish Environment Institute SYKE*, Helsinki, Finland.
 
-`05/2014 – 08/2014`	
-**Research intern**, Environmental Policy Centre, *Finnish Environment Institute SYKE*, Helsinki, Finland.
-
-`06/2012 – 09/2012`	
+`2012`	
 **GIS intern**, *Helsinki City Rescue Department*, Finland.
 
-`08/2011 – 2/2012`
+`2011–2012`
 **GIS analyst**, *GIS Consultants Ltd (Paikkatietokonsultit Oy)*, Espoo, Finland.
 
 `2008-2011`	
@@ -77,16 +74,15 @@ Understanding the use of urban green spaces from user-generated geographic infor
 Pellikka, P. K. E., Heikinheimo, V., Hietanen, J., Schäfer, E., Siljander, M., & Heiskanen, J. (2018). 
 Impact of land cover change on aboveground carbon stocks in Afromontane landscape in Kenya. Applied Geography, 94, 178-189. [https://doi.org/10.1016/j.apgeog.2018.03.017](https://doi.org/10.1016/j.apgeog.2018.03.017)
 
-
-
 ## Teaching experience
 
-Co-developing and teaching courses at the University of Helsinki (2013-2019):
-- \- Geo-Python (https://geo-python.github.io) (2017-2019)
-- \- Automating GIS processes (https://autogis.github.io) (2017-2019)
-- \- Introduction to advanced geoinformatics (2018-2019)
-- \- Remote sensing methods (2013-2014)
-- \- Further education course: “Use and Application of GIS – Further Educated with Companies” (2015-2016).
+`2013–present` Co-developing and teaching courses at the University of Helsinki: 
+
+- \- Geo-Python [https://geo-python.github.io](https://geo-python.github.io)
+- \- Automating GIS processes [https://autogis.github.io](https://autogis.github.io)
+- \- Introduction to advanced geoinformatics 
+- \- Further education course: “Use and Application of GIS – Further Educated with Companies”
+- \- Remote sensing methods
 
 ## Technical skills
 
