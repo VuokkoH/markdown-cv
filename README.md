@@ -1,6 +1,12 @@
-# markdown-cv
+# Vuokko's markdown-cv
 
 Vuokko's CV is online at: https://vuokkoh.github.io/markdown-cv/.
+
+- Forked from [the markdown-cv repo](https://github.com/elipapa/markdown-cv) by by Eliseo Papa. 
+- Insipred by [davewhipp's mardown-cv](https://github.com/davewhipp/markdown-cv) and the [Academy of Finland cv guidelines](https://www.aka.fi/en/funding/apply-for-funding/az-index-of-application-guidelines/cv-guidelines/).
+- Vuokko's cv uses `kjhealy` style, but with increased font size.
+
+Want to create your own mardown cv? Start by forking [the original markdown-cv repo](https://github.com/elipapa/markdown-cv) and follow the instructions.
 
 # Original template and instructions
 
@@ -12,7 +18,7 @@ For more details, see the [project page](http://elipapa.github.io/markdown-cv), 
 
 ## Customization
 
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
+Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv) 
 
 ![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
