@@ -7,9 +7,14 @@ MSc, Doctoral candidate
 
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a>
 
+Department of Geosciences and Geography, Faculty of Science<br/>
+P.O. Box 64 (Gustaf Hällströmin katu 2)<br/>
+FI-00014 University of Helsinki, Finland<br/>
+
 <div id="webaddress">
   <a href="https://www.researchgate.net/profile/Vuokko_Heikinheimo"><i class="ai ai-researchgate"></i> Vuokko_Heikinheimo</a> - 
   <a href="https://orcid.org/0000-0001-5119-0957"><i class="ai ai-orcid"></i> 0000-0001-5119-0957</a> 
+  <a href="https://twitter.com/Vuoggis"><i class="fab fa-twitter"></i> @Vuoggis</a>
 </div>
 
 ## Degrees
@@ -22,7 +27,7 @@ MSc, Doctoral candidate
 
 ## Current position
 `03/2016 – `
-Doctoral candidate, Digital Geography Lab, University of Helsinki, Finland.
+**Doctoral candidate**, Digital Geography Lab, University of Helsinki, Finland.
 
 ## Other education and expertise
 
@@ -34,12 +39,14 @@ BSc-level European studies, *Malmö University*, Sweden.
 
 ## Language skills
 
+Finnish (native); English (proficient); Swedish (advanced); French (advanced)
+
 ## Previous work experience
 
 `10/2013–12/2019` 	
-**GIS teacher** (several positions), *Department of Geosciences and Geography, University of Helsinki*, Finland.
+**GIS teacher** (several positions), Department of Geosciences and Geography, *University of Helsinki*, Finland.
 
-`05/2015–02/2016`	**Coordinator**, *Department of Geosciences and Geography, University of Helsinki*, Finland.
+`05/2015–02/2016`	**Coordinator**, Department of Geosciences and Geography, *University of Helsinki*, Finland.
 
 `11/2014 – 12/2014` 	
 **Research assistant**, Environmental Policy Centre, *Finnish Environment Institute SYKE*, Helsinki, Finland.
@@ -54,7 +61,7 @@ BSc-level European studies, *Malmö University*, Sweden.
 **GIS analyst**, *GIS Consultants Ltd (Paikkatietokonsultit Oy)*, Espoo, Finland.
 
 `2008-2011`	
-**Salesperson** (several part-time positions), *Stockmann* and *INDISKA*, Helsinki, Finland.
+**Salesperson** (several part-time positions), *Stockmann Oyj Abp* and *INDISKA*, Helsinki, Finland.
 
 ## Research output
 
