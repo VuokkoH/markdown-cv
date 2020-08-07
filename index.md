@@ -1,91 +1,95 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Vuokko Heikinheimo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Vuokko Heikinheimo
+MSc, Doctoral candidate
+
+<a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a>
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://www.researchgate.net/profile/Vuokko_Heikinheimo"><i class="ai ai-researchgate"></i> Vuokko_Heikinheimo</a> - 
+  <a href="https://orcid.org/0000-0001-5119-0957"><i class="ai ai-orcid"></i> 0000-0001-5119-0957</a> 
 </div>
 
+## Degrees
 
-## Currently
+`09/2013 – 06/2015`
+**Master of Science (Geography)**, *University of Helsinki*, Finland.
 
-Standing on the shoulders of giants
+`08/2009 – 06/2013`
+**Bachelor of Science (Geography)**, *University of Helsinki*, Finland.
 
-### Specialized in
+## Current position
+`03/2016 – `
+Doctoral candidate, Digital Geography Lab, University of Helsinki, Finland.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Other education and expertise
 
+`08/2012 – 06/2013`	
+MSc-level studies in sustainability science, *Stockholm Resilience Center*, Stockholm University, Sweden.
 
-### Research interests
+`06/2008 – 05/2009`	
+BSc-level European studies, *Malmö University*, Sweden.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Language skills
 
+## Previous work experience
 
-## Education
+`10/2013–12/2019` 	
+**GIS teacher** (several positions), *Department of Geosciences and Geography, University of Helsinki*, Finland.
 
-`1654-1660`
-__The King's School, Grantham.__
+`05/2015–02/2016`	**Coordinator**, *Department of Geosciences and Geography, University of Helsinki*, Finland.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`11/2014 – 12/2014` 	
+**Research assistant**, Environmental Policy Centre, *Finnish Environment Institute SYKE*, Helsinki, Finland.
 
-- Sizar
+`05/2014 – 08/2014`	
+**Research intern**, Environmental Policy Centre, *Finnish Environment Institute SYKE*, Helsinki, Finland.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`06/2012 – 09/2012`	
+**GIS intern**, *Helsinki City Rescue Department*, Finland.
 
-- Fellow
+`08/2011 – 2/2012`
+**GIS analyst**, *GIS Consultants Ltd (Paikkatietokonsultit Oy)*, Espoo, Finland.
 
+`2008-2011`	
+**Salesperson** (several part-time positions), *Stockmann* and *INDISKA*, Helsinki, Finland.
 
+## Research output
 
-## Awards
+Full list of publications and academic activities is available [online at the University of Helsinki Research Portal](https://researchportal.helsinki.fi/en/persons/vuokko-vilhelmiina-heikinheimo/publications/).
+- \-  Number of journal articles : 16
+- \- h-index: 9 (Scopus)
 
-`2012`
-President, *Royal Society*, London, UK
+### Selected publications
 
-Associate, *French Academy of Science*, Paris, France
+Heikinheimo, V., Tenkanen, H., Bergroth, C., Järv, O., Hiippala, T., & Toivonen, T. (2020). 
+Understanding the use of urban green spaces from user-generated geographic information. Landscape and Urban Planning, 201, [103845]. [https://doi.org/10.1016/j.landurbplan.2020.103845](https://doi.org/10.1016/j.landurbplan.2020.103845)
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Pellikka, P. K. E., Heikinheimo, V., Hietanen, J., Schäfer, E., Siljander, M., & Heiskanen, J. (2018). 
+Impact of land cover change on aboveground carbon stocks in Afromontane landscape in Kenya. Applied Geography, 94, 178-189. [https://doi.org/10.1016/j.apgeog.2018.03.017](https://doi.org/10.1016/j.apgeog.2018.03.017)
 
 
 
-<!-- ### Footer
+## Teaching experience
 
-Last updated: May 2013 -->
+Co-developing and teaching courses at the University of Helsinki (2013-2019):
+- \- Geo-Python (https://geo-python.github.io) (2017-2019)
+- \- Automating GIS processes (https://autogis.github.io) (2017-2019)
+- \- Introduction to advanced geoinformatics (2018-2019)
+- \- Remote sensing methods (2013-2014)
+- \- Further education course: “Use and Application of GIS – Further Educated with Companies” (2015-2016).
+
+## Technical skills
+
+Experienced user of:
+- \- Python Programming for spatial data management and analysis
+- \- Project Jupyter tools for documenting and communicating data analysis workflows
+- \- Version control using git & GitHub 
+- \- PostgreSQL/PostGIS for managing and analysing spatial databases
+- \- Standard desktop GIS software (QGIS, ArcMap, MapInfo)
+
+Last updated: August 2020
 
 
