@@ -3,7 +3,7 @@ layout: cv
 title: Vuokko Heikinheimo's CV
 ---
 # Vuokko Heikinheimo
-MSc, Doctoral candidate
+MSc, PhD candidate
 
 <a href="firstname.lastname@helsinki.fi">firstname.lastname@helsinki.fi</a>
 
@@ -25,13 +25,13 @@ FI-00014 University of Helsinki, Finland<br/>
 ## Degrees
 
 `2020 (expected)`
-**Doctor of Philosophy** (Geography), *University of Helsinki*, Finland.
+**PhD** (Geography), *University of Helsinki*, Finland.
 
 `2015`
-**Master of Science** (Geography), *University of Helsinki*, Finland.
+**MSc** (Geography), *University of Helsinki*, Finland.
 
 `2013`
-**Bachelor of Science** (Geography), *University of Helsinki*, Finland.
+**BSc** (Geography), *University of Helsinki*, Finland.
 
 ## Experience
 
@@ -69,7 +69,7 @@ Impact of land cover change on aboveground carbon stocks in Afromontane landscap
 
 ## Teaching experience
 
-`2013–present` Co-developing and teaching courses at the University of Helsinki: 
+`2013–` Co-developing and teaching courses at the University of Helsinki: 
 
 - \- Introduction to data analysis with Python (Geo-Python: [https://geo-python.github.io](https://geo-python.github.io))
 - \- Automating GIS processes using Python (AutoGIS:[https://autogis.github.io](https://autogis.github.io))
@@ -77,7 +77,7 @@ Impact of land cover change on aboveground carbon stocks in Afromontane landscap
 - \- Further education course: “Use and Application of GIS – Further Educated with Companies”
 - \- Remote sensing methods
 
-## Other education and expertise
+## Other education
 
 `2012–2013`	
 MSc-level studies in sustainability science, *Stockholm Resilience Center*, Stockholm University, Sweden.
@@ -92,9 +92,9 @@ Finnish (native); English (proficient); Swedish (advanced); French (advanced)
 ## Technical skills
 
 Experienced user of:
-- \- Python Programming for spatial data analysis
+- \- Python programming for spatial data analysis
 - \- Project Jupyter tools for documenting and communicating data analysis workflows
-- \- Version control using git & GitHub 
+- \- git & GitHub for version control
 - \- PostgreSQL/PostGIS for managing and analysing spatial databases
 - \- Standard desktop GIS software (QGIS, ArcMap, MapInfo)
 
